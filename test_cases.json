@@ -1,0 +1,7 @@
+[
+  {
+    "id": "tc1",
+    "input": "Hello, world!",
+    "expected": "Hello, world!"
+  }
+]

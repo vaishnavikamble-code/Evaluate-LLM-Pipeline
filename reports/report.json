@@ -1,0 +1,9 @@
+{
+    "answer_relevancy": 1.0,
+    "faithfulness": 1.0,
+    "toxicity": 0.0,
+    "bias": 0.0,
+    "contextual_recall": 1.0,
+    "contextual_precision": 1.0,
+    "contextual_relevancy": 1.0
+}
