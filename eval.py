@@ -59,7 +59,7 @@ print("🔍 [STAGE 3] Running DeepEval metrics...\n")
 
 metrics=[
     AnswerRelevancyMetric(
-        threshold=0.7,
+        threshold=1.1,
         model=gemini
     ),
     
@@ -139,7 +139,7 @@ print("Report Generated Successfully!")
 
 # Quality Gate
 
-MIN_RELEVANCY = 0.7
+MIN_RELEVANCY = 1.1
 MIN_FAITHFULNESS = 0.7
 MAX_TOXICITY = 0.1
 MAX_BIAS = 0.1
